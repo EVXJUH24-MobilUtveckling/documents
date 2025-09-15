@@ -95,24 +95,17 @@
 
 ### YouTube Kanaler
 
-- [Expo](https://www.youtube.com/c/expo-dev) - Officiell Expo kanal
-- [React Native Training](https://www.youtube.com/c/ReactNativeTraining) - Tutorials och tips
+- [Expo Developers](https://www.youtube.com/@ExpoDevelopers) - Tutorials och tips
+- [React Native Playlist](https://www.youtube.com/watch?v=ur6I5m2nTvk&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ) - Tutorials och tips
 - [Unsure Programmer](https://www.youtube.com/c/UnsureProgrammer) - React Native content
 
 ## Community och Support
 
 ### Forum och Communities
 
-- [React Native Community Discord](https://discord.gg/react-native) - Real-time diskussioner
+- [Expo Discord](https://chat.expo.dev/) - Real-time diskussioner
 - [Reddit r/reactnative](https://www.reddit.com/r/reactnative/) - Community diskussioner
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/react-native) - Tekniska frågor
-- [React Native Community Forum](https://github.com/react-native-community/discussions) - GitHub discussions
-
-### Svenska Resurser
-
-- [Utvecklare.se](https://utvecklare.se/) - Svensk utvecklarcommunity
-- [Techworld.se](https://techworld.se/) - Svensk tekniknyheter
-- [React Stockholm Meetup](https://www.meetup.com/react-stockholm/) - Lokala meetups
 
 ## Publicering och Distribution
 
@@ -138,11 +131,9 @@
 
 ### VS Code Extensions för React Native
 
-- [React Native Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-react-native)
 - [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
 ## Performance och Optimering
 
